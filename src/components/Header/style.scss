@@ -1,0 +1,21 @@
+.header {
+  background-color: black;
+  color: lightgray;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 20px 10px;
+  p {
+    font-size: 0.7rem;
+    margin-right: 20px;
+  }
+  .active {
+    color: white;
+    background: black;
+  }
+}
+.header__blue {
+  background: url("../../background/header.png");
+  width: 100%;
+  height: 30px;
+}

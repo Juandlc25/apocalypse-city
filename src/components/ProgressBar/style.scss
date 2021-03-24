@@ -1,0 +1,17 @@
+.progress {
+  height: 10px;
+  width: 60%;
+  background-color: #9a9a9a;
+  margin: 15px;
+  position: relative;
+  div {
+    color: var(--white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 0;
+    opacity: 0;
+    transition: 1s ease 0.3s;
+  }
+}

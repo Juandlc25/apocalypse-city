@@ -1,0 +1,16 @@
+.skill {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 85%;
+  .skill__div {
+    p {
+      font-size: 0.8rem;
+      width: 120px;
+    }
+    display: flex;
+    column-gap: 120px;
+    justify-content: center;
+    align-items: center;
+  }
+}
