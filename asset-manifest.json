@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/apocalypse-city/static/css/main.d48015a8.chunk.css",
+    "main.js": "/apocalypse-city/static/js/main.942627c7.chunk.js",
+    "main.js.map": "/apocalypse-city/static/js/main.942627c7.chunk.js.map",
+    "runtime-main.js": "/apocalypse-city/static/js/runtime-main.d3c4ed92.js",
+    "runtime-main.js.map": "/apocalypse-city/static/js/runtime-main.d3c4ed92.js.map",
+    "static/js/2.baae6917.chunk.js": "/apocalypse-city/static/js/2.baae6917.chunk.js",
+    "static/js/2.baae6917.chunk.js.map": "/apocalypse-city/static/js/2.baae6917.chunk.js.map",
+    "static/js/3.2b2918e5.chunk.js": "/apocalypse-city/static/js/3.2b2918e5.chunk.js",
+    "static/js/3.2b2918e5.chunk.js.map": "/apocalypse-city/static/js/3.2b2918e5.chunk.js.map",
+    "index.html": "/apocalypse-city/index.html",
+    "static/css/main.d48015a8.chunk.css.map": "/apocalypse-city/static/css/main.d48015a8.chunk.css.map",
+    "static/js/2.baae6917.chunk.js.LICENSE.txt": "/apocalypse-city/static/js/2.baae6917.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/apocalypse-city/static/media/container.6addc609.png",
+    "static/media/style.scss": "/apocalypse-city/static/media/header.3a60dec8.png",
+    "static/media/title.14124745.png": "/apocalypse-city/static/media/title.14124745.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3c4ed92.js",
+    "static/js/2.baae6917.chunk.js",
+    "static/css/main.d48015a8.chunk.css",
+    "static/js/main.942627c7.chunk.js"
+  ]
+}
